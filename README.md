@@ -1,1 +1,1 @@
-# Quantum-error-correction-for-VQE-and-dynamics
+# Quantum error correction and graph states
